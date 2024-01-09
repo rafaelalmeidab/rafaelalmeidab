@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
-<h4>I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h4>
+<h2>I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h2>
 
 
 - 🔭 I’m currently working on PHP, Oracle and JavaScript.
@@ -26,14 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: linkedin.com/in/rafaelalmeidab
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
-
-- 🔭 I’m currently working with **PHP, NODEJS**
-
-- 🌱 I’m currently learning **React JS, Next JS, TypeScript, NestJS**
-
-- 🤝 I’m looking for **freelancing**
-
-- 💬 Ask me about **PHP, Design Patterns, Software Architecture, NODEJS**
 
 
 <h3 align="left">Connect with me:</h3>
