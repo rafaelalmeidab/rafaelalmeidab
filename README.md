@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on PHP, Oracle and JavaScript.
 - 🌱 I’m currently learning React.js, Next.js, Node.js, Symfony, Laravel, Design Patters and Software Architecture.
 - 👯 I’m looking to collaborate on React.js and Node.js projects, also volunteer work.
-- 🤔 I’m looking for help to become a millionaire under the 30s.
+- 🤔 I’m looking for help to become a millionaire and a digital worker under the 30s.
 - 💬 Ask me about PHP, C++, Arduino and ESP32.
 - 📫 How to reach me: linkedin.com/in/rafaelalmeidab
 <!-- - 😄 Pronouns: ... -->
