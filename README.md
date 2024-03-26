@@ -1,32 +1,9 @@
-### Hi, there! 👋
+<h2>Hi. I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h2>
 
-<!--
-**rafaelalmeidab/rafaelalmeidab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
-<h2>I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h2>
-
-
-<!--- 🔭 I’m currently working on PHP, Symfony, Oracle and JavaScript.-->
 - 🌱 I’m currently learning React.js, Next.js, Node.js, Symfony, Laravel, Design Patters and Software Architecture.
 - 👯 I’m looking to collaborate on React.js and Node.js projects, also volunteer work.
-<!--- 🤔 I’m looking for help to become a millionaire and a digital worker before the 30s.-->
 - 💬 Ask me about PHP, JavaScript, MySQL, C++, Arduino and ESP32.
 - 📫 How to reach me: linkedin.com/in/rafaelalmeidab
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
