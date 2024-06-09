@@ -13,40 +13,40 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP"/> 
 	</a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node"/> 
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql"/> 
 	</a>
 	<a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"/> 
 	</a>
 	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/> 
 	</a> 
 	<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html"/> 
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css"/> 
 	</a>
 	<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"/> 
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express"/> 
 	</a>
 	<a href="https://react.dev" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"/> 
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/> 
 	</a>
 	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40" /> 
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/> 
 	</a>
 </p>
 
