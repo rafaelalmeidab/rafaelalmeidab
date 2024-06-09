@@ -12,48 +12,55 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-	<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-	</a> 
-	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-	</a>  -->
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
-	</a>
-	<!-- <a href="https://heroku.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40" /> 
-	</a> -->
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
-	</a>
-	<!-- <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" /> 
-	</a> -->
-	<!-- <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" /> 
-	</a> -->
-	<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bootstrap.svg" alt="bootstrap" width="40" height="40" /> 
-	</a>
-	<!-- <a href="https://www.ecma-international.org/" target="_blank" rel="noreferrer">
-		<img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="javascript" width="40" height="40" /> 
-	</a> -->
-	<a href="https://www.apache.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original-wordmark.svg" alt="apache" width="40" height="40" /> 
-	</a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40" /> 
-	</a>
+//php
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" /> 
 	</a>
-  <a href="https://codeigniter.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg" alt="CodeIgniter" width="40" height="40" /> 
+//node
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node" width="40" height="40" /> 
 	</a>
-  <!-- <a href="https://cakephp.org/" target="_blank" rel="noreferrer"> 
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cakephp/cakephp-original.svg" alt="cakePHP" width="40" height="40" /> 
-	</a> -->
+//MySQL 
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> 
+	</a>
+//Oracle
+<a href="https://www.oracle.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40" /> 
+	</a>
+//MongoDB
+<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40" /> 
+	</a> 
+//HTML
+<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40" /> 
+	</a>
+//CSS 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="40" height="40" /> 
+	</a>
+//JavaScript
+<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg" alt="javascript" width="40" height="40" /> 
+	</a>
+//Express.js
+<a href="https://expressjs.com" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40" /> 
+	</a>
+//react 
+<a href="https://react.dev" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40" /> 
+	</a>
+//git
+	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> 
+	</a>
+//Docker 
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40" /> 
+	</a>
+
 </p>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelalmeidab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafaelalmeidab" />
