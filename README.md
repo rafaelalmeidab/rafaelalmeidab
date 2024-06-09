@@ -13,7 +13,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg alt="PHP" width="40" height="40"/> 
+		<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="40" height="40"/> 
 	</a>
   <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node"/> 
