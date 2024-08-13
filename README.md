@@ -1,6 +1,6 @@
 <h2>Hi. I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h2>
 
-- 🌱 I’m currently learning React.js, Next.js, Node.js, Symfony, Laravel, Design Patters and Software Architecture.
+- 🌱 I’m currently learning React.js, Node.js, Laravel, Design Patters and Software Architecture.
 - 👯 I’m looking to collaborate on React.js and Node.js projects, also volunteer work.
 - 💬 Ask me about PHP, JavaScript, MySQL, C++, Arduino and ESP32.
 - 📫 How to reach me: linkedin.com/in/rafaelalmeidab
@@ -12,10 +12,13 @@
   
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
+  	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"/> 
 	</a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  	<a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
+		<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel"/> 
+	</a>
+  	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node"/> 
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
