@@ -1,4 +1,4 @@
-<h2>Hi. I am Rafael Almeida, a Control and Automation Engineer currently broadening my knowledge in other technologies so I can improve my overall developing skills.</h2>
+<h2>Hi, I'm Rafael Almeida, a Control and Automation Engineer expanding my skills in various technologies. Currently, I work as a full-stack developer.</h2>
 
 - Currently learning React.js, Laravel, Node.js and Software Architecture.
 - I’m looking to collaborate on React.js and Laravel projects.
@@ -18,45 +18,46 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   	<a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP"/> 
+		<img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" width="40" height="40"/> 
 	</a>
   	<a href="https://www.laravel.com/" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel"/> 
+		<img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="Laravel" width="40" height="40"/> 
 	</a>
   	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node"/> 
+		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" alt="Node" width="40" height="40"/> 
 	</a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql"/> 
+		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="40" height="40"/> 
 	</a>
 	<a href="https://www.oracle.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle"/> 
+		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="40" height="40"/> 
 	</a>
 	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb"/> 
+		<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/> 
 	</a> 
 	<a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html"/> 
+		<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg" alt="html" width="40" height="40"/> 
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css"/> 
+		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="40" height="40"/> 
 	</a>
 	<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript"/> 
+		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40" height="40"/> 
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express"/> 
+		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="40" height="40"/> 
 	</a>
 	<a href="https://react.dev" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React"/> 
+		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="40" height="40"/> 
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"/> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 	</a>
 	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
-		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker"/> 
+		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40"/> 
 	</a>
 </p>
+
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafaelalmeidab&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rafaelalmeidab" />
 <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelalmeidab&show_icons=true&locale=en&theme=tokyonight" alt="rafaelalmeidab" />
