@@ -1,4 +1,4 @@
-<h2>Hi, I'm Rafael Almeida, a Control and Automation Engineer working as a full-stack developer.</h2>
+<h2>Hi, I'm Rafael Almeida, a Control and Automation Engineer currently working as a full-stack developer.</h2>
 
 - Currently learning React.js, Laravel, Node.js and Software Architecture.
 - I’m looking to collaborate on React.js and Laravel projects.
