@@ -7,10 +7,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/rafaelalmeidab" target="_blank" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/7cecccbc5011859f2c611dc0111e041ea9a833108b486a8177492e1f3edea821/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d746961676f736f7269616e6f2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f746961676f736f7269616e6f2f" alt="Linkedin Badge" style="max-width: 100%;">
-  </a>
+     <img src="https://img.shields.io/badge/-rafaelalmeidab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelalmeidab/" alt="Linkedin Badge" style="max-width: 100%;">
+ </a>
   <a href="mailto:rafaelalmeidab@hotmail.com" target="_blank" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/61f0e2c1ec6a0b38121a817c64c4576d00bca8b0ca3ef65955f1e4441e18e7da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d636f6e7461637440746961676f736f7269616e6f2e6465762d6331343433383f7374796c653d666c61742d737175617265266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d6d61696c746f3a636f6e7461637440746961676f736f7269616e6f2e646576" alt="Gmail Badge" style="max-width: 100%;">
+    <img src="https://img.shields.io/badge/-rafaelalmeidab@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@example.com" alt="Gmail Badge" style="max-width: 100%;">
   </a>
 </p>
 
