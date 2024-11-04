@@ -29,6 +29,8 @@
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="80"/> 
 	</a>
+</p>
+	<p align="left"> 
 	<a href="https://www.oracle.com" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" alt="oracle" width="80"/> 
 	</a>
@@ -41,8 +43,10 @@
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg" alt="css" width="80"/> 
 	</a>
+</p>
+	<p align="left"> 	
 	<a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="80"/> 
+		<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="javascript" width="40"/> 
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="express" width="80"/> 
@@ -51,7 +55,7 @@
 		<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" width="80"/> 
 	</a>
 	<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="80"/> 
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40"/> 
 	</a>
 	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
 		<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="80"/> 
