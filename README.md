@@ -9,9 +9,9 @@
   <a href="https://www.linkedin.com/in/rafaelalmeidab" target="_blank" rel="nofollow">
      <img src="https://img.shields.io/badge/-rafaelalmeidab-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelalmeidab/" alt="Linkedin Badge" style="max-width: 100%;">
  </a>
-  <a href="mailto:rafaelalmeidab@hotmail.com" target="_blank" rel="nofollow">
+<!--   <a href="mailto:rafaelalmeidab@hotmail.com" target="_blank" rel="nofollow">
     <img src="https://img.shields.io/badge/-rafaelalmeidab@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seuemail@example.com" alt="Gmail Badge" style="max-width: 100%;">
-  </a>
+  </a> -->
 </p>
 
   
