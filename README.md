@@ -1,8 +1,8 @@
 <h2>Hi, I'm Rafael Almeida, a full-stack developer graduated in Control and Automation Engineering.</h2>
 
-- Currently learning React.js, Laravel, Node.js and Software Architecture.
+- Currently learning React.js, Laravel, Node.js, Software Architecture and best practices.
 - I’m looking to collaborate on React.js and Laravel projects.
-- Ask me about PHP, JavaScript, MySQL, Docker and ESP32.
+- Ask me about PHP, JavaScript, MySQL, Docker, Arduino and ESP32.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
